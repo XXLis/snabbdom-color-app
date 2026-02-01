@@ -1,0 +1,11 @@
+{
+    "name": "extend-framework",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "live-server"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
